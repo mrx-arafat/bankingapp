@@ -35,7 +35,7 @@ class Scene extends StatelessWidget {
               margin: EdgeInsets.fromLTRB(0 * fem, 0 * fem, 0 * fem, 33 * fem),
               width: double.infinity,
               height: 587 * fem,
-              child: Row(
+              child: Stack(
                 children: [
                   Positioned(
                     // group2816uo (1:326)

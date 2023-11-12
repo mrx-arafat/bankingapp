@@ -24,42 +24,42 @@ flutter:
   uses-material-design: true
   assets:
     - assets/page-1/images/
-    # - assets/page-1/images/frame-5.png
-    # - assets/page-1/images/vector-176.png
-    # - assets/page-1/images/group-314.png
-    # - assets/page-1/images/group-354.png
-    # - assets/page-1/images/group-361.png
-    # - assets/page-1/images/frame-5-hrR.png
-    # - assets/page-1/images/chip.png
-    # - assets/page-1/images/frame-5-hC5.png
-    # - assets/page-1/images/frame-5-8Tj.png
-    # - assets/page-1/images/vector-177.png
-    # - assets/page-1/images/frame-5-721.png
-    # - assets/page-1/images/group-352.png
-    # - assets/page-1/images/group-313.png
-    # - assets/page-1/images/auto-group-a18d.png
-    # - assets/page-1/images/chip-qsF.png
-    # - assets/page-1/images/group-352-AEd.png
-    # - assets/page-1/images/group-354-ycd.png
-    # - assets/page-1/images/frame-5-Yjb.png
-    # - assets/page-1/images/frame-5-4ch.png
-    # - assets/page-1/images/group-259-YtR.png
-    # - assets/page-1/images/frame-5-Dv1.png
-    # - assets/page-1/images/group-350.png
-    # - assets/page-1/images/frame-5-k81.png
-    # - assets/page-1/images/frame-5-kxZ.png
-    # - assets/page-1/images/frame-5-1m3.png
-    # - assets/page-1/images/group-313-Hhs.png
-    # - assets/page-1/images/frame-5-Bzh.png
-    # - assets/page-1/images/vector-177-KD3.png
-    # - assets/page-1/images/group-297.png
-    # - assets/page-1/images/group-314-KWR.png
-    # - assets/page-1/images/group-361-4Q1.png
-    # - assets/page-1/images/auto-group-afut.png
-    # - assets/page-1/images/group-297-XZB.png
-    # - assets/page-1/images/payment-method.png
-    # - assets/page-1/images/payment-method-iPb.png
-    # - assets/page-1/images/group-281.png
-    # - assets/page-1/images/group-281-dv1.png
-    # - assets/page-1/images/vector-176-fQm.png
-    # - assets/page-1/images/group-350-jeZ.png
+    - assets/page-1/images/frame-5.png
+    - assets/page-1/images/vector-176.png
+    - assets/page-1/images/group-314.png
+    - assets/page-1/images/group-354.png
+    - assets/page-1/images/group-361.png
+    - assets/page-1/images/frame-5-hrR.png
+    - assets/page-1/images/chip.png
+    - assets/page-1/images/frame-5-hC5.png
+    - assets/page-1/images/frame-5-8Tj.png
+    - assets/page-1/images/vector-177.png
+    - assets/page-1/images/frame-5-721.png
+    - assets/page-1/images/group-352.png
+    - assets/page-1/images/group-313.png
+    - assets/page-1/images/auto-group-a18d.png
+    - assets/page-1/images/chip-qsF.png
+    - assets/page-1/images/group-352-AEd.png
+    - assets/page-1/images/group-354-ycd.png
+    - assets/page-1/images/frame-5-Yjb.png
+    - assets/page-1/images/frame-5-4ch.png
+    - assets/page-1/images/group-259-YtR.png
+    - assets/page-1/images/frame-5-Dv1.png
+    - assets/page-1/images/group-350.png
+    - assets/page-1/images/frame-5-k81.png
+    - assets/page-1/images/frame-5-kxZ.png
+    - assets/page-1/images/frame-5-1m3.png
+    - assets/page-1/images/group-313-Hhs.png
+    - assets/page-1/images/frame-5-Bzh.png
+    - assets/page-1/images/vector-177-KD3.png
+    - assets/page-1/images/group-297.png
+    - assets/page-1/images/group-314-KWR.png
+    - assets/page-1/images/group-361-4Q1.png
+    - assets/page-1/images/auto-group-afut.png
+    - assets/page-1/images/group-297-XZB.png
+    - assets/page-1/images/payment-method.png
+    - assets/page-1/images/payment-method-iPb.png
+    - assets/page-1/images/group-281.png
+    - assets/page-1/images/group-281-dv1.png
+    - assets/page-1/images/vector-176-fQm.png
+    - assets/page-1/images/group-350-jeZ.png
